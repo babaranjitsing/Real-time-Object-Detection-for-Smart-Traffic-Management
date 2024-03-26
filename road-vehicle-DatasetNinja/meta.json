@@ -1,0 +1,174 @@
+{
+    "classes": [
+        {
+            "title": "ambulance",
+            "shape": "rectangle",
+            "color": "#800000",
+            "geometry_config": {},
+            "id": 8710,
+            "hotkey": ""
+        },
+        {
+            "title": "army vehicle",
+            "shape": "rectangle",
+            "color": "#FFD7B4",
+            "geometry_config": {},
+            "id": 8711,
+            "hotkey": ""
+        },
+        {
+            "title": "auto rickshaw",
+            "shape": "rectangle",
+            "color": "#DCBEFF",
+            "geometry_config": {},
+            "id": 8712,
+            "hotkey": ""
+        },
+        {
+            "title": "bicycle",
+            "shape": "rectangle",
+            "color": "#3CB44B",
+            "geometry_config": {},
+            "id": 8713,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "rectangle",
+            "color": "#FFE119",
+            "geometry_config": {},
+            "id": 8714,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "rectangle",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "id": 8715,
+            "hotkey": ""
+        },
+        {
+            "title": "garbagevan",
+            "shape": "rectangle",
+            "color": "#000000",
+            "geometry_config": {},
+            "id": 8716,
+            "hotkey": ""
+        },
+        {
+            "title": "human hauler",
+            "shape": "rectangle",
+            "color": "#AA6E28",
+            "geometry_config": {},
+            "id": 8717,
+            "hotkey": ""
+        },
+        {
+            "title": "minibus",
+            "shape": "rectangle",
+            "color": "#AAFFC3",
+            "geometry_config": {},
+            "id": 8718,
+            "hotkey": ""
+        },
+        {
+            "title": "minivan",
+            "shape": "rectangle",
+            "color": "#D2F53C",
+            "geometry_config": {},
+            "id": 8719,
+            "hotkey": ""
+        },
+        {
+            "title": "motorbike",
+            "shape": "rectangle",
+            "color": "#0082C8",
+            "geometry_config": {},
+            "id": 8720,
+            "hotkey": ""
+        },
+        {
+            "title": "pickup",
+            "shape": "rectangle",
+            "color": "#F032E6",
+            "geometry_config": {},
+            "id": 8721,
+            "hotkey": ""
+        },
+        {
+            "title": "policecar",
+            "shape": "rectangle",
+            "color": "#808080",
+            "geometry_config": {},
+            "id": 8722,
+            "hotkey": ""
+        },
+        {
+            "title": "rickshaw",
+            "shape": "rectangle",
+            "color": "#911EB4",
+            "geometry_config": {},
+            "id": 8723,
+            "hotkey": ""
+        },
+        {
+            "title": "scooter",
+            "shape": "rectangle",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 8724,
+            "hotkey": ""
+        },
+        {
+            "title": "suv",
+            "shape": "rectangle",
+            "color": "#FABED4",
+            "geometry_config": {},
+            "id": 8725,
+            "hotkey": ""
+        },
+        {
+            "title": "taxi",
+            "shape": "rectangle",
+            "color": "#808000",
+            "geometry_config": {},
+            "id": 8726,
+            "hotkey": ""
+        },
+        {
+            "title": "three wheelers -CNG-",
+            "shape": "rectangle",
+            "color": "#F58230",
+            "geometry_config": {},
+            "id": 8727,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "rectangle",
+            "color": "#46F0F0",
+            "geometry_config": {},
+            "id": 8728,
+            "hotkey": ""
+        },
+        {
+            "title": "van",
+            "shape": "rectangle",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 8729,
+            "hotkey": ""
+        },
+        {
+            "title": "wheelbarrow",
+            "shape": "rectangle",
+            "color": "#FFFAC8",
+            "geometry_config": {},
+            "id": 8730,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
