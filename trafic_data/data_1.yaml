@@ -1,3 +1,4 @@
+path: /Users/Mashhood/Documents/GitHub/Real-time-Object-Detection-for-Smart-Traffic-Management/trafic_data
 train: ../train/images
 val: ../valid/images
 
